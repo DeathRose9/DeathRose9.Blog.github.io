@@ -1,5 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
+@media only screen and (min-width: 320px) and (max-width: 480px);
+
 body {
   color: #555;
   margin: 0;
